@@ -22,7 +22,7 @@
     "eslint-config-airbnb": "^19.0.0",
     "eslint-plugin-jsx-a11y": "^6.5.0",
     "eslint-plugin-react": "^7.28.0",
-    "metro-react-native-babel-preset": "0.76.0"
+    "metro-react-native-babel-preset": "^0.72.0"
   },
   "engines": {
     "node": ">=16"
